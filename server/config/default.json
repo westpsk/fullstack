@@ -1,11 +1,11 @@
 {
-  "PORT": 4000,
+  "PORT": 8000,
   "DB_NAME": "fullstack",
   "MONGO_HOST": "",
   "ACCOUNTS_SECRET": "secret",
-  "PLAID_CLIENT_ID": "xxxxxxx",
-  "PLAID_SECRET": "xxxxxxx",
-  "PLAID_PUBLIC_KEY": "xxxxxxx",
+  "PLAID_CLIENT_ID": "5d407ceec2c21f0011579408 ",
+  "PLAID_SECRET": "b973fa3aef4f38c659b85fc194ab2e ",
+  "PLAID_PUBLIC_KEY": "cdabf0e599480f4316e3e6d83b91d6 ",
   "PLAID_PRODUCTS": "transactions",
   "PLAID_COUNTRY_CODES": "US",
   "PLAID_ENV": "sandbox"
